@@ -16,6 +16,6 @@ To compile:
 To run:
     ./Coordinator.out <Divisor> <Dividend 1> <Dividend 2> <Dividend 3> <Dividend 4>
 
-For example;
+For example:
     ./Coordinator.out 7 32 49 846 22344
 
